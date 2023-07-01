@@ -1,2 +1,2 @@
 # GST_Solution
-Five Problems One Solution and this GST Solution. 
+Five Problems & One Solution. That is your GST Solution. 
